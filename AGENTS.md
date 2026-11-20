@@ -1,5 +1,9 @@
 # Kanban Project
 
+## Language
+
+- 나는 한국어 사용자이므로, 모든 설명은 최대한 한국어로 사용해줘
+
 ## Business Requirements
 
 - An MVP of a Kanban style Project Management application as a web app  
